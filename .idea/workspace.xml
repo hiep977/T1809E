@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a72668aa-5f71-47c8-bc0e-f460d0482e95" name="Default Changelist" comment="123">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DATA/META-INF/DATA.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DATA/assignment4/product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DATA/jv1_asignment2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DATA/jv1_asignment2/SoNguyenTo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DATA/session1/Timsonguyento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DATA/session1/TinhtongFibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DATA/session2/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DATA/session2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/CI9_Pilot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/background/background.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/background/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/blood cells/blood-cell1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/blood cells/blood-cell2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/blood cells/blood-cell3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/blood cells/blood-cell4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/enemy/enemy2_bullet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/enemy/enemy2_bullet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/enemy/enemy2_bullet3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/enemy/enemy_bullet.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/enemy/enemy_bullet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/enemy/enemy_bullet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/enemy/enemy_bullet3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb69bullet.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb69bullet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb69bullet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb69bullet3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb69bullet4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb70bullet.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb70bullet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb70bullet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb70bullet3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/bullet/player/mb70bullet4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/enemy/bacteria/bacteria1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/enemy/bacteria/bacteria2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/enemy/bacteria/bacteria3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/enemy/bacteria/bacteria4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player_left1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player_left2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player_left3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player_left4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player_right1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player_right2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player_right3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-69/player_right4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-70/player1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-70/player2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-70/player3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/images/player/MB-70/player4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bases/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bases/BoxCollider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bases/FrameCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bases/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bases/ImageRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bases/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bases/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bases/Vector2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bloods/Blood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/bloods/BloodSpawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/enemies/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/enemies/EnemyBullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/enemies/EnemyExplosion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/enemies/EnemyShoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/enemies/EnemySpawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/game/GameCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/game/GameWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/game/Setting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/inputs/InputManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/players/PLayerShoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/players/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/players/Player2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/players/Player2Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/players/PlayerAnimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/players/PlayerBullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamefly3d/src/players/PlayerMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/classRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ManagePhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/NamePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment2/Assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment2/Songuyento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3/Assignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3/Phanso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment4/Assignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment4/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment4/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hinhtamgiac/HinhTamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv1_asignment2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv1_asignment2/SoNguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv1_lab_session5/TamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv1_lab_session5/TamGiacCan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv1_lab_session5/TamGiacDeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv1_lab_session5/TamGiacVuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/HinhTamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/Asian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/Vietnam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session6/IPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session6/IPerson2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session6/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session7/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session7/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session7/PhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DATA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session1/Timsonguyento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session1/Timsonguyento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session1/TinhtongFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session1/TinhtongFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session2/HinhChuNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session2/HinhChuNhat.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/session7/PhoneBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/session7/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignment2/Assignment2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/session7/PhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/session1/timsonguyento.java" />
+        <option value="$PROJECT_DIR$/src/session2/Human.java" />
+        <option value="$PROJECT_DIR$/src/session2/bai2.java" />
+        <option value="$PROJECT_DIR$/src/session2/Bai2.java" />
+        <option value="$PROJECT_DIR$/src/session1/TinhtongFibonacci.java" />
+        <option value="$PROJECT_DIR$/src/session1/Timsonguyento.java" />
+        <option value="$PROJECT_DIR$/src/session2/Main.java" />
+        <option value="$PROJECT_DIR$/src/jv1_asignment2/Main.java" />
+        <option value="$PROJECT_DIR$/src/jv1_asignment2/SoNguyenTo.java" />
+        <option value="$PROJECT_DIR$/src/session2/HinhChuNhat.java" />
+        <option value="$PROJECT_DIR$/src/assignment2/Songuyento.java" />
+        <option value="$PROJECT_DIR$/src/session4/User.java" />
+        <option value="$PROJECT_DIR$/src/session4/Main.java" />
+        <option value="$PROJECT_DIR$/src/session4/Room.java" />
+        <option value="$PROJECT_DIR$/src/assignment4/Assignment4.java" />
+        <option value="$PROJECT_DIR$/src/assignment4/Cart.java" />
+        <option value="$PROJECT_DIR$/src/assignment4/product.java" />
+        <option value="$PROJECT_DIR$/src/assignment3/Assignment3.java" />
+        <option value="$PROJECT_DIR$/src/assignment3/Phanso.java" />
+        <option value="$PROJECT_DIR$/src/assignment2/Assignment2.java" />
+        <option value="$PROJECT_DIR$/src/session5/Main.java" />
+        <option value="$PROJECT_DIR$/src/session5/Asian.java" />
+        <option value="$PROJECT_DIR$/src/session5/Vietnam.java" />
+        <option value="$PROJECT_DIR$/src/session5/Human.java" />
+        <option value="$PROJECT_DIR$/src/hinhtamgiac/HinhTamGiac.java" />
+        <option value="$PROJECT_DIR$/src/session3/HinhTamGiac.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/classRoom.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/User.java" />
+        <option value="$PROJECT_DIR$/src/session5/TamGiac.java" />
+        <option value="$PROJECT_DIR$/src/session6/Student.java" />
+        <option value="$PROJECT_DIR$/src/session6/Person.java" />
+        <option value="$PROJECT_DIR$/src/session6/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab6/PhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/Lab6/Phone.java" />
+        <option value="$PROJECT_DIR$/src/Lab6/NamePhone.java" />
+        <option value="$PROJECT_DIR$/src/Lab6/ManagePhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/session7/Phone.java" />
+        <option value="$PROJECT_DIR$/src/session7/PhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/jv1_lab_session5/TamGiac.java" />
+        <option value="$PROJECT_DIR$/src/jv1_lab_session5/TamGiacCan.java" />
+        <option value="$PROJECT_DIR$/src/jv1_lab_session5/TamGiacDeu.java" />
+        <option value="$PROJECT_DIR$/src/jv1_lab_session5/TamGiacVuong.java" />
+        <option value="$PROJECT_DIR$/src/session3/User.java" />
+        <option value="$PROJECT_DIR$/src/session3/Main.java" />
+        <option value="$PROJECT_DIR$/src/session6/IPerson.java" />
+        <option value="$PROJECT_DIR$/src/session6/IPerson2.java" />
+        <option value="$PROJECT_DIR$/src/session7/PhoneBook.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="653" />
+    <option name="y" value="80" />
+    <option name="width" value="1205" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="T1809E" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DATA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="T1809E" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DATA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DATA OFFLINE/ProjectSem4-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ManagePhoneBook">
+    <configuration name="HinhTamGiac (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hinhtamgiac.HinhTamGiac" />
+      <module name="DATA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hinhtamgiac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HinhTamGiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.HinhTamGiac" />
+      <module name="DATA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jv1_asignment2.Main" />
+      <module name="DATA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jv1_asignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagePhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab6.ManagePhoneBook" />
+      <module name="DATA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ManagePhoneBook" />
+        <item itemvalue="Application.HinhTamGiac (1)" />
+        <item itemvalue="Application.HinhTamGiac" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a72668aa-5f71-47c8-bc0e-f460d0482e95" name="Default Changelist" comment="" />
+      <created>1555923906290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555923906290</updated>
+      <workItem from="1555923910537" duration="3950000" />
+      <workItem from="1555929056272" duration="706000" />
+      <workItem from="1555930341967" duration="7458000" />
+      <workItem from="1556272997818" duration="8949000" />
+      <workItem from="1556876605096" duration="3469000" />
+      <workItem from="1556886889846" duration="3109000" />
+      <workItem from="1557142565662" duration="4574000" />
+      <workItem from="1557314927807" duration="5472000" />
+      <workItem from="1557397879847" duration="500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38187000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="523" y="64" width="964" height="736" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.200883" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32896653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32784185" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../DATA OFFLINE/sourcecode_9/Session 2/SourceCodeModule02/Session 2/Greeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DATA OFFLINE/sourcecode_9/Session 2/SourceCodeModule02/Session 2/PyramidApp/src/Pyramid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session1/TinhtongFibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session2/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session1/Timsonguyento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session2/HinhChuNhat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/session4/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment4/product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment4/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment3/Assignment4.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment3/Assignment3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/Phanso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment2/Songuyento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment4/Assignment4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session3/HinhTamGiac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/classRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session5/Vietnam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hinhtamgiac/HinhTamGiac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session5/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv1_asignment2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv1_asignment2/SoNguyenTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session5/Asian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab6/bin.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab6/ManagePhoneBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab6/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab6/NamePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session6/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session6/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session5/TamGiac.java" />
+    <entry file="file://$PROJECT_DIR$/src/session4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1696#1705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session4/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv1_lab_session5/TamGiacCan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session6/IPerson2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session6/IPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab6/PhoneBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv1_lab_session5/TamGiacVuong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv1_lab_session5/TamGiacDeu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv1_lab_session5/TamGiac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session3/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session7/PhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhoneBook/bin/ManagePhoneBook.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-707" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session7/PhoneBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session7/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment2/Assignment2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
